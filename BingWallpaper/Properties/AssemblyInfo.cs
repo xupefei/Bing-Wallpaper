@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("BingWallpaper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Bing Wallpaper Downloader")]
+[assembly: AssemblyDescription("Bing Wallpaper Downloader")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Paddy Xu")]
 [assembly: AssemblyProduct("BingWallpaper")]
